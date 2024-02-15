@@ -1,7 +1,3 @@
-<style>
-  table { width:100%; }
-</style>
-
 <h1 align="center">
   <br>
   <img src="./images/logo.png" alt="logo" width="400">
@@ -28,6 +24,36 @@ E-commerce, revolutionizes the way businesses and consumers interact in the digi
 
 ## Overview
 ![schema](./images/schema.svg)
+
+<table>
+  <tr>
+    <th align="center">
+      <img width="441" height="1">
+      <p><small>Information</small></p>
+    </th>
+    <th align="center">
+      <img width="441" height="1">
+      <p><small>Quantity</small></p>
+    </th>
+  </tr>
+  <tr>
+    <td align='center'>Lines of Code</td>
+    <td align='center'>200+</td>
+  </tr>
+  <tr>
+    <td align='center'>Java Classes</td>
+    <td align='center'>6.2K+</td>
+  </tr>
+  <tr>
+    <td align='center'>Endpoints</td>
+    <td align='center'>130+</td>
+  </tr>
+  <tr>
+    <td align='center'>Entities</td>
+    <td align='center'>25+</td>
+  </tr>
+</table>
+
 
 | Information   | Quantity  |
 |:-------------:|:---------:|
