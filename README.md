@@ -40,11 +40,11 @@ E-commerce, revolutionizes the way businesses and consumers interact in the digi
   </tr>
   <tr>
     <td align='center'>Lines of Code</td>
-    <td align='center'>200+</td>
+    <td align='center'>6.2K+</td>
   </tr>
   <tr>
     <td align='center'>Java Classes</td>
-    <td align='center'>6.2K+</td>
+    <td align='center'>200+</td>
   </tr>
   <tr>
     <td align='center'>Endpoints</td>
