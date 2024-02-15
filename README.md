@@ -1,6 +1,8 @@
 <h1 align="center">
   <br>
-  <img src="./images/logo.png" alt="logo" width="400">
+    <a href="#">
+      <img src="./images/logo.png" alt="logo" width="400">
+    </a>
   <br>
   E - Commerce
   <br>
@@ -53,14 +55,6 @@ E-commerce, revolutionizes the way businesses and consumers interact in the digi
     <td align='center'>25+</td>
   </tr>
 </table>
-
-
-| Information   | Quantity  |
-|:-------------:|:---------:|
-| Lines of Code | 6.2K+     |
-| Java Classes  | 200+      |
-| Endpoints     | 130+      |
-| Entities      | 25+       |
 
 * View database schema diagram on [dbdiagram.io](https://dbdiagram.io/d/E-Commerce-65ca0de8ac844320aef41179)
 * Explore the database schema details on [dbdocs.io](https://dbdocs.io/ahmedukamel/E-Commerce)
