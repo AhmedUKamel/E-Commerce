@@ -29,11 +29,12 @@ E-commerce, revolutionizes the way businesses and consumers interact in the digi
 ## Overview
 ![schema](./images/schema.svg)
 
-|        Information       |     Quantity      |
-|:------------------------:|:-----------------:|
-|       Java Classes       |       200+        |
-|      Lines of Code       |       6K+         |
-|         Entities         |       25+         |
+| Information   | Quantity  |
+|:-------------:|:---------:|
+| Lines of Code | 6.2K+     |
+| Java Classes  | 200+      |
+| Endpoints     | 130+      |
+| Entities      | 25+       |
 
 * View database schema diagram on [dbdiagram.io](https://dbdiagram.io/d/E-Commerce-65ca0de8ac844320aef41179)
 * Explore the database schema details on [dbdocs.io](https://dbdocs.io/ahmedukamel/E-Commerce)
@@ -106,7 +107,7 @@ git clone https://github.com/AhmedUKamel/E-Commerce.git
 
 ## Start Application
 ~~~bash
-cd path/to/E-Commerce
+cd path/to/E-Commerce/output
 ~~~
 ~~~bash
 java -jar ecommerce-0.0.1-SNAPSHOT.jar
